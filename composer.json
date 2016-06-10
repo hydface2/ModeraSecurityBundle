@@ -20,7 +20,7 @@
         "symfony/framework-bundle": "~2.6",
         "doctrine/doctrine-bundle": "~1.2",
         "sergeil/extjsintegration-bundle": "~1.0",
-        "hydface/foundation-bundle": "dev-master"
+        "hydface/foundation-bundle": "self.version"
     },
     "require-dev": {
         "modera/foundation-bundle": "~1.0",
